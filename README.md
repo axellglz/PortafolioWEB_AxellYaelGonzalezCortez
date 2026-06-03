@@ -5,7 +5,7 @@ Materia: Desarrollo de Aplicaciones Web
 Docente: Jesus Salas Marin
 Sexto Semestre
 
-## Descripción Gemeral
+## Descripción General
 
 Este repositorio contiene los proyectos desarrollados durante el semestre en la materia de Desarrollo de Aplicaciones Web. Cada proyecto permitió aplicar conocimientos relacionados con el desarrollo de sitios y aplicaciones web, bases de datos, programación del lado del servidor, gestión de contenido y herramientas de control de versiones.
 A lo largo del semestre se utilizaron diferentes tecnologías y metodologías para diseñar, implementar y documentar soluciones web funcionales. Los proyectos incluidos muestran la evolución de las competencias adquiridas en áreas como diseño web, programación en PHP, manejo de bases de datos MySQL, uso de WordPress y desarrollo de aplicaciones web dinámicas.
