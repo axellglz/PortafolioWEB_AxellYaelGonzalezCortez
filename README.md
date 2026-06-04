@@ -30,11 +30,11 @@ Sitio web desarrollado en WordPress para presentar información personal, acadé
 
 ### Proyecto 2. Mini Aplicación Web Agenda Web
 
-Aplicación web desarrollada con PHP y MySQL que permite registrar usuarios, iniciar sesión y administrar contactos y citas personales. :contentReference[oaicite:1]{index=1}
+Aplicación web desarrollada con PHP y MySQL que permite registrar usuarios, iniciar sesión y administrar contactos y citas personales.
 
 ### Proyecto 3. Sistema Web de Gestión de Citas
 
-Sistema desarrollado bajo una estructura MVC para el registro de usuarios y administración de citas mediante operaciones CRUD. :contentReference[oaicite:2]{index=2}
+Sistema desarrollado bajo una estructura MVC para el registro de usuarios y administración de citas mediante operaciones CRUD. 
 
 ### Proyecto 4. Consumo de API Web
 
