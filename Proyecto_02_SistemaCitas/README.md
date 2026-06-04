@@ -64,7 +64,7 @@ La aplicación se encuentra organizada bajo una estructura MVC, separando la ló
 
 ### Base de Datos
 
-![BaseDatos](capturas/BaseDatos_SistemaCitas.png)
+![BaseDatos](capturas/BaseDatos_SistemasCitas.png)
 
 ## Instrucciones de Ejecución
 
