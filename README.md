@@ -51,7 +51,6 @@ Aplicación desarrollada para consumir servicios web utilizando APIs externas y 
 - MySQL
 - phpMyAdmin
 - WordPress
-- Laravel
 - Git
 - GitHub
 - XAMPP
