@@ -48,7 +48,7 @@ La aplicación se encuentra organizada bajo una estructura MVC, separando la ló
 
 ### Página Principal
 
-![Principal](capturas/Principal_SistemaCitas.png)
+![Principal](capturas/Principal_SistemasCitas.png)
 
 ### Registro de Usuario
 
