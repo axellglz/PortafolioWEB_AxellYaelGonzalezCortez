@@ -60,7 +60,7 @@ La aplicación se encuentra organizada bajo una estructura MVC, separando la ló
 
 ### Gestión de Citas
 
-![Gestión](capturas/GestioNCitas_SistemaCitas.png)
+![Gestión](capturas/GestioNCitas_SistemasCitas.png)
 
 ### Base de Datos
 
