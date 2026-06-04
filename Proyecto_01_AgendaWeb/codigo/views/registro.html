@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <!-- Enlace a la hoja de estilos -->
+<link rel="stylesheet" href="/proyecto_web/css/estilos.css">
+<script>
+ // Función para validar que la contraseña tenga mínimo 4 caracteres   
+function validar(){
+    let pass = document.getElementById("password").value;
+    if(pass.length < 4){
+        alert("La contraseña debe tener mínimo 4 caracteres");
+        return false; // Evita que se envíe el formulario
+    }
+    return true; // Permite el envío si cumple la condición
+}
+</script>
+</head>
+<body>
+<!-- Formulario que envía los datos al archivo registrar_usuario.php -->
+<form action="/proyecto_web/php/registrar_usuario.php" method="POST" onsubmit="return validar()">
+<h2>Registro</h2>
+
+<!-- Campo nombre -->
+<input type="text" name="nombre" placeholder="Nombre" required>
+
+<!-- Campo correo -->
+<input type="email" name="correo" placeholder="Correo" required>
+
+<!-- Campo contraseña -->
+<input type="password" id="password" name="password" placeholder="Contraseña" required>
+<button type="submit">Registrarse</button>
+<a href="login.html">Iniciar sesión</a>
+</form>
+
+</body>
+</html>
