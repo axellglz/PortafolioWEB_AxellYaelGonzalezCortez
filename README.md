@@ -1,9 +1,9 @@
 # Portafolio de Proyectos -- Desarrollo de Aplicaciones Web
 
-Alumno: Axell Yael González Cortez
-Materia: Desarrollo de Aplicaciones Web
-Docente: Jesus Salas Marin
-Sexto Semestre
+# Alumno: Axell Yael González Cortez
+# Materia: Desarrollo de Aplicaciones Web
+# Docente: Jesus Salas Marin
+# Sexto Semestre
 
 ## Descripción General
 
