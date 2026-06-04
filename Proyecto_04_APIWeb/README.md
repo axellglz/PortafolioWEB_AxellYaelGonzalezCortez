@@ -45,19 +45,9 @@ La comunicación con la API se realiza mediante solicitudes HTTP y los resultado
 
 ### Página Principal
 
-Agregar captura correspondiente.
-
-### Consulta de Razas
-
-Agregar captura correspondiente.
-
-### Resultados Obtenidos
-
-Agregar captura correspondiente.
-
 ### Visualización de Imágenes
 
-Agregar captura correspondiente.
+![Imágenes](capturas/ImagenesPerros_APIWeb.png)
 
 ## Instrucciones de Ejecución
 
