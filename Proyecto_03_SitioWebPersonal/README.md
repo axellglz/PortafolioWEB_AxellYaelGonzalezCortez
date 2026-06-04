@@ -45,23 +45,19 @@ El sistema permite navegar entre las diferentes secciones mediante un menú prin
 
 ### Página de Inicio
 
-Agregar captura correspondiente.
+![Página de Inicio](capturas/Inicio_WordPress.png)
 
 ### Página Sobre Mí
 
-Agregar captura correspondiente.
+![Página Sobre Mí](capturas/SobreMi_WordPress.png)
 
 ### Página Portafolio
 
-Agregar captura correspondiente.
+![Página Portafolio](capturas/Portafolio_WordPress.png)
 
 ### Página Servicios
 
-Agregar captura correspondiente.
-
-### Página Contacto
-
-Agregar captura correspondiente.
+![Página Servicios](capturas/Servicios_WordPress.png)
 
 ## Instrucciones de Ejecución
 
