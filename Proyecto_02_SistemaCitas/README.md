@@ -48,27 +48,23 @@ La aplicación se encuentra organizada bajo una estructura MVC, separando la ló
 
 ### Página Principal
 
-Agregar captura correspondiente.
+![Principal](capturas/Principal_SistemaCitas.png)
 
 ### Registro de Usuario
 
-Agregar captura correspondiente.
+![Registro](capturas/Registro_SistemaCitas.png)
 
 ### Inicio de Sesión
 
-Agregar captura correspondiente.
+![Login](capturas/Login_SistemaCitas.png)
 
 ### Gestión de Citas
 
-Agregar captura correspondiente.
-
-### Edición de Citas
-
-Agregar captura correspondiente.
+![Gestión](capturas/GestioNCitas_SistemaCitas.png)
 
 ### Base de Datos
 
-Agregar captura correspondiente de las tablas en phpMyAdmin.
+![BaseDatos](capturas/BaseDatos_SistemaCitas.png)
 
 ## Instrucciones de Ejecución
 
