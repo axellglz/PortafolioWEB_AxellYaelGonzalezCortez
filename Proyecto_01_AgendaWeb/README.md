@@ -48,27 +48,27 @@ La información se almacena en una base de datos MySQL, permitiendo realizar ope
 
 ### Registro de Usuario
 
-Agregar captura correspondiente.
+![Registro](capturas/Registro_AgendaWeb.png)
 
 ### Inicio de Sesión
 
-Agregar captura correspondiente.
+![Login](capturas/login_AgendaWeb.png)
 
 ### Menú Principal
 
-Agregar captura correspondiente.
+![Dashboard](capturas/Dashboard_AgendaWeb.png)
 
 ### Gestión de Contactos
 
-Agregar captura correspondiente.
+![Contactos](capturas/Contactos_AgendaWeb.png)
 
 ### Gestión de Citas
 
-Agregar captura correspondiente.
+![Citas](capturas/Citas_AgendaWeb.png)
 
 ### Base de Datos
 
-Agregar captura correspondiente de las tablas en phpMyAdmin.
+![Base de Datos](capturas/BaseDatos_AgendaWeb.png)
 
 ## Instrucciones de Ejecución
 
