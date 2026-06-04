@@ -24,21 +24,31 @@ A lo largo del semestre se utilizaron diferentes tecnologías y metodologías pa
 - --
 ## Proyectos Incluidos
 
-### Proyecto 1. Sitio Web Personal en WordPress
 
-Sitio web desarrollado en WordPress para presentar información personal, académica y profesional, incluyendo secciones de portafolio, servicios y contacto.
 
-### Proyecto 2. Mini Aplicación Web Agenda Web
+### Proyecto 1. Mini Aplicación Web Agenda Web
 
 Aplicación web desarrollada con PHP y MySQL que permite registrar usuarios, iniciar sesión y administrar contactos y citas personales.
 
-### Proyecto 3. Sistema Web de Gestión de Citas
+[Agenda Web](Proyecto_01_AgendaWeb)
+
+### Proyecto 2. Sistema Web de Gestión de Citas
 
 Sistema desarrollado bajo una estructura MVC para el registro de usuarios y administración de citas mediante operaciones CRUD. 
+
+[Sistema de Citas](Proyecto_02_SistemaCitas)
+
+### Proyecto 3. Sitio Web Personal en WordPress
+
+Sitio web desarrollado en WordPress para presentar información personal, académica y profesional, incluyendo secciones de portafolio, servicios y contacto.
+
+[Sitio Web Personal](Proyecto_03_SitioWebPersonal)
 
 ### Proyecto 4. Consumo de API Web
 
 Aplicación desarrollada para consumir servicios web utilizando APIs externas y mostrar información dinámica al usuario.
+
+[Consumo de API Web](Proyecto_04_APIWeb)
 
 ---
 
