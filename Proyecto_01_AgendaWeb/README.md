@@ -80,9 +80,7 @@ La información se almacena en una base de datos MySQL, permitiendo realizar ope
 6. Abrir el navegador web.
 7. Acceder mediante la dirección:
 
-```
-http://localhost/AgendaWeb
-```
+`http://localhost/AgendaWeb`
 
 ## Dificultades Encontradas
 
